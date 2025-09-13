@@ -53,5 +53,6 @@ Redundancy is : 0.0
 Variance is : 0.484
 ``` 
 # Results:
-
+```
 Thus,the Huffman-Shannon_fano is verified both theoretically and practically
+```
